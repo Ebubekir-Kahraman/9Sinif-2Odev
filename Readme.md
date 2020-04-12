@@ -33,16 +33,16 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 3. [Bu Videoyu](https://www.youtube.com/watch?v=EbVeoJBjHTw) izleyin. Hangi öğrenci tipine benziyorsun? (Sizin yönünüze göre)
 **Cevap**: Ortadaki
 4. Deneydeki verileri elle defterinize çizin. Eğimi kaç buldunuz (Not: Eğim bulunurken deney ölçümündeki değerler kullanılmaz.  Yani doğru üzerinde seçeceğimiz iki nokta, deneyde elde ettiğimiz noktalar olmaması lazım. Yoksa çizdiğimiz doğrunun bir anlamı olmaz.) Videodaki değere yakın mı?
-**Cevap**:
+**Cevap**: Fs= -672x videodaki değere yakın.
 5. Şimdi [bu adresteki] (https://www.rit.edu/cos/livephoto/LPVideos/projectiles/) sayfanın *en altındaki* videoya (tartılı video) gidin. Bu videoyu seyrederek 4-5 değer alınız. Aşağıdaki tabloya bu değerleri işleyiniz:
 
 |Kuvvet (N) | Uzanım (m)|
 |-----------|-----------|
-|          |     |
-|          |     |
-|        |     |
-|        |    |
-|        |     |
+|    1,59      | 0,0007    |
+|     3,48     | 0,0015    |
+|   6,16     |0,0023     |
+|   9,95     |  0,0030  |
+|    12,35    |  0,0035   |
 
-6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](   ). 
+6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [Tablo](https://docs.google.com/spreadsheets/d/1KfOw784VjgVGi5nlSU9LfdODuI1xgt94M3Iar0vVka8/edit#gid=0  ). 
 
